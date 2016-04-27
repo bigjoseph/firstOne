@@ -1,3 +1,5 @@
 # firstOne
 Just learn how to use git
-en 
+
+Try to make some change.
+So this branch is diffrent from the master branch.
